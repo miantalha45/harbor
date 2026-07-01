@@ -30,7 +30,6 @@ src/portal/typings/
 *.iml
 .DS_Store
 .project
-.vscode/
 .devcontainer/
 **/node_modules
 **/ssl/
@@ -61,3 +60,7 @@ src/server/v2.0/restapi/
 harborclient/
 openapi-generator-cli.jar
 tests/e2e_setup/robotvars.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
